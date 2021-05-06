@@ -8,10 +8,10 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-define('DB_SERVER', 'localhost');
-   define('DB_USERNAME', 'PuneethReddy');
-   define('DB_PASSWORD', '');
-   define('DB_DATABASE', 'ecommerece');
+define('DB_SERVER', 'remotemysql.com');
+   define('DB_USERNAME', 'CqS9yEFwVk');
+   define('DB_PASSWORD', 'jhSPTo8CrX');
+   define('DB_DATABASE', 'CqS9yEFwVk');
    $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
 if (!$db) {
     die("Connection failed: " . mysqli_connect_error());
