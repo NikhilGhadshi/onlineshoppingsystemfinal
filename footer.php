@@ -44,7 +44,6 @@
 								</ul>
 							</div>
 						</div>
-
 						<div class="clearfix visible-xs"></div>
 
 						
