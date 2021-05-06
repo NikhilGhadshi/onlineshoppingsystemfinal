@@ -71,8 +71,7 @@ include "header.php";
 									{
 									echo '
 									
-                                    
-                                
+                                                                    
                                 <div class="col-md-5 col-md-push-2">
                                 <div id="product-main-img">
                                     <div class="product-preview">
