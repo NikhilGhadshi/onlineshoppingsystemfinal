@@ -29,8 +29,7 @@ if(isset($_POST["category"])){
 			echo "
 					
                     <div type='button' class='btn navbar-btn category' cid='$cid'>
-									
-									<a href='#'>
+																		<a href='#'>
 										<span  ></span>
 										$cat_name
 										<small class='qty'>($count)</small>
