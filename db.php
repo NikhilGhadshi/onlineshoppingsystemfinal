@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "onlineshoping";
+$servername = "remotemysql.com";
+$username = "CqS9yEFwVk";
+$password = "jhSPTo8CrX";
+$db = "CqS9yEFwVk";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
